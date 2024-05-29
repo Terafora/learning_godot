@@ -1,0 +1,9 @@
+[gd_scene load_steps=2 format=3 uid="uid://d2of0anu2ycgk"]
+
+[ext_resource type="Texture2D" uid="uid://dgww7h4rqsa3p" path="res://Pokemon Go Icon.png" id="1_rivnh"]
+
+[node name="MyLevel" type="Node2D"]
+
+[node name="Sprite2D" type="Sprite2D" parent="."]
+position = Vector2(565, 326)
+texture = ExtResource("1_rivnh")
